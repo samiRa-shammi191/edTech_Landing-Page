@@ -22,4 +22,40 @@
 
 }
 
+.black {
+    background-color: black;
+    width: 100%;
+    padding: 30px 60px;
+    margin: 200px 0px 0px 0px;
+    line-height: 100%;
+    
+
+}
+.black h6 {
+    text-align: center;
+    color: white;
+    font-size: x-small;
+}
+.black h2 {
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+}
+.icon{
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+.icon a{
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    margin: 5px;
+    border-radius: 30px;
+    color: white;
+    background-color:rgb(54, 53, 53);
+}
+
  
